@@ -44,7 +44,7 @@ Google Colab for development and training
 
 ## 🚀 Getting Started
 1. Clone the Repository
-git clone https://github.com/yourusername/early-forest-fire-detection.git
+git clone [https://...]
 cd early-forest-fire-detection
 
 2. Install Dependencies
@@ -59,7 +59,7 @@ Mount Google Drive (if using Drive for storage).
 Follow the step-by-step workflow.
 
 ## 📊 Project Structure
-early-forest-fire-detection/
+FireSight--Early-Forest-Fire-Detection/
 │
 ├── 1_Early_forest_fire_detection.ipynb  # Main notebook
 ├── requirements.txt                      # Dependencies
