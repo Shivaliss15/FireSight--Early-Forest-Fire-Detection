@@ -5,6 +5,8 @@ Deep learning pipeline for early forest fire detection using UAV visible + infra
 The main notebook and dataset are available via Google Drive.  
 Access is restricted — please request access if needed: [Request Access Here](https://colab.research.google.com/drive/1skZN18Dy7rnAMsGq9l8dT0ku79mwQ1Q4?usp=sharing)
 
+Leveraged a dataset of 2,752 synchronized visible–infrared UAV image pairs, enhancing YOLOv5s for robust
+small-target detection.
 
 # 🌲 Early Forest Fire Detection using UAV Image Fusion
 ## 📌 Overview
