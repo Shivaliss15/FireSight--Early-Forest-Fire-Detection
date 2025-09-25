@@ -73,3 +73,12 @@ Deep learning-based image fusion techniques.
 
 Deployment as a web or mobile application.
 
+## sample image pairs
+
+<img width="1093" height="525" alt="Screenshot 2025-09-26 003646" src="https://github.com/user-attachments/assets/c42f28c1-70f5-4cf8-89ae-42d387ed6a42" />
+<img width="1090" height="547" alt="Screenshot 2025-09-26 003721" src="https://github.com/user-attachments/assets/0bf419fe-1fdd-4a71-8509-0857583ee8a4" />
+
+## Output
+
+<img width="1732" height="630" alt="Screenshot 2025-09-26 003849" src="https://github.com/user-attachments/assets/cb167b45-7630-44bc-8c0e-0176f3ab44e7" />
+<img width="812" height="803" alt="Screenshot 2025-09-26 003924" src="https://github.com/user-attachments/assets/0c2909bb-95aa-4397-b6b6-939665f78ae5" />
