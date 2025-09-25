@@ -6,7 +6,7 @@ The main notebook and dataset are available via Google Drive.
 Access is restricted — please request access if needed: [Request Access Here](https://colab.research.google.com/drive/1skZN18Dy7rnAMsGq9l8dT0ku79mwQ1Q4?usp=sharing)
 
 
-#🌲 Early Forest Fire Detection using UAV Image Fusion
+# 🌲 Early Forest Fire Detection using UAV Image Fusion
 ## 📌 Overview
 
 This project focuses on early detection of forest fires using UAV (drone) images captured from visible (VIS) and infrared (IR) sensors.
